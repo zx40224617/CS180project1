@@ -35,6 +35,33 @@ a {
   text-decoration: none;
 }
 
+img {
+  height: 30vh;
+  width: auto;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 2vh;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+h4 {
+  font-size: 23px;
+  margin-top: 20px;
+}
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

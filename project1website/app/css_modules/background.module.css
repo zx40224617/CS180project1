@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90vw;
+  background-color: grey;
+}
+
+.title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.introduction {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.SPG {
+  margin-bottom: 50px;
+}
